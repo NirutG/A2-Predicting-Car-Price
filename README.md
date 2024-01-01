@@ -1,4 +1,4 @@
 # A2-Predicting-Car-Price
 Predicting Car Price A2
 
-# I am trying to update best as I can within January 2024
+# This project is still ongoing and plan to update in January 2024.
